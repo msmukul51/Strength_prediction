@@ -1,0 +1,13 @@
+pandas
+scikit-learn
+streamlit
+matplotlib
+seaborn
+numpy
+scipy
+ipykernel
+packaging
+shap
+numba
+cloudpickle
+reportlab
